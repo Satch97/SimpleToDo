@@ -27,9 +27,12 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
+##Video Tutorial
+
+http://g.recordit.co/l6VzRmLVkn.gif
 
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+App Crashes when back is hit from the  edit screen
